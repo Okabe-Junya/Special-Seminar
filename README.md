@@ -1,5 +1,14 @@
 # 情報特別演習
 
+<p align="left">
+    <a href="#">
+        <img src="https://img.shields.io/badge/-archive-red">
+    </a>
+    <a href="https://github.com/Okabe-Junya/Special-Seminar/blob/main/README_en.md">
+        <img src="https://img.shields.io/badge/link-English-blue">
+    </a>
+</p>
+
 ## 概要
 
 学部2年生で履修した[情報特別演習](https://kdb.tsukuba.ac.jp/syllabi/2021/GB13312/jpn/)に関するアーカイブ．
@@ -39,7 +48,7 @@
 
 ### 2月
 
-最終報告書の提出．演習の終了．
+[最終報告書](https://github.com/Okabe-Junya/Special-Seminar/blob/main/Publications/Final_Report.pdf)の提出．演習の終了．
 
 ## ディレクトリ構成
 
@@ -53,6 +62,7 @@
 ├── README.md
 ├── README_en.md
 └── src
+    ├── README
     ├── draw.py
     ├── my_def.py
     └── res
